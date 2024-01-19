@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nirmal</h1>
 <h3 align="center">A passionate worked software developement filed</h3>
-<img align="right" alt="coding" width="400" src="![Uploading image.png…]()
-"/>
+<img align="right" alt="coding" width="400" src="![image](https://github.com/CoderNikku/nirmallohiya/assets/154978877/ee383bc6-074c-468d-af90-f0e7328e3350)"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirmal" alt="nirmal" /></a> </p>
 
 - 🔭 I’m working on front end **ecommerce**
